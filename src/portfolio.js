@@ -189,7 +189,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Let’s build something together!",
-  number: "+216-52686486",
+  number: "+216-58686486",
   email_address: "ilyesssaidi111@esprit.tn"
 };
 
